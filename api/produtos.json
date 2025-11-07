@@ -1,0 +1,20 @@
+[
+    {
+        "id": "Notebook",
+        "nome": "Notebook",
+        "preco": 2999,
+        "img": "./api/produtos/notebook/notebook.jpg"
+    },
+    {
+        "id": "Celular",
+        "nome": "Celular",
+        "preco": 12999,
+        "img": "./api/produtos/celular/celular.jpg"
+    },
+    {
+        "id": "Tablet",
+        "nome": "Tablet",
+        "preco": 899,
+        "img": "./api/produtos/tablet/tablet.jpg"
+    }
+]
